@@ -12,7 +12,7 @@ public class Dept1
 		}
 		public String toString() 
 		{
-			return "dept details:"+id+" "+dname+" "+loc+"\n..";
+			return "dept details of:"+id+" "+dname+" "+loc+"\n..";
 		}
 }
 		 
